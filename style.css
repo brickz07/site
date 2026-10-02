@@ -33,6 +33,9 @@ img {
     padding: 4px;
 }
 
+div.nawigacja img{
+    background-image:#242320;
+}
 /* ===== BLOKI ===== */
 
 div.blok {
