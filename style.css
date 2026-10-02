@@ -29,7 +29,7 @@ body {
     width: 5vh;
     height: 5vh;
 
-    background: linear-gradient(to right, #242320, #646361);
+    background: #242320;
     border-radius: 6px;
 
     padding: 4px;
@@ -44,7 +44,7 @@ div.blok {
     padding: 15px;
     margin-bottom: 15px;
 
-    background: linear-gradient(to right, #242320, #646361);
+    background: #242320;
 
     width: fit-content;
 }
