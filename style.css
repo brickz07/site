@@ -79,6 +79,11 @@ a.button:hover {
     transform: scale(1.02);
 }
 
+.rammsteinLogo {
+    width: 100px;
+    height: auto;
+}
+
 /* ===== LISTY ===== */
 
 li {
